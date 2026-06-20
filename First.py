@@ -1,1 +1,1 @@
-First Command
+print("hello world")
